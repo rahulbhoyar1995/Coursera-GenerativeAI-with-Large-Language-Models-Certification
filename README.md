@@ -19,4 +19,4 @@ Specialisation completed on **19th December 2023**.
 
 **Link for verification :**
 
-[https://www.coursera.org/account/accomplishments/verify/5SNRKNFM8FHW]()
+[Coursera Generative AI with Large Language Models Certificate](https://www.coursera.org/account/accomplishments/verify/5SNRKNFM8FHW)
